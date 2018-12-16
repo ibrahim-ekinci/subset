@@ -1,2 +1,0 @@
-# subset
-subset algorithm
